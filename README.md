@@ -102,7 +102,7 @@ The website uses CSS variables for easy theme customization:
 
 ## 📄 License
 
-This project is open-source and available under the MIT License.
+This project is open-source.
 
 ## 🙏 Acknowledgments
 
